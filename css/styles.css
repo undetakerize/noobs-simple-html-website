@@ -1,0 +1,30 @@
+body{
+    background-color: #905E96;
+}
+h1{
+    color: #FFD372;
+}
+
+h2,h3{
+    color: #FFD372;
+}
+
+hr{
+    width: 3%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #D58BDD;
+    border-width: 8px;
+}
+
+p{
+    color: whitesmoke;
+}
+
+tr,td{
+    color: whitesmoke;
+}
+
+ul,li{
+    color: whitesmoke;
+}
